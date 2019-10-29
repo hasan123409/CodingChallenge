@@ -1,8 +1,7 @@
 /**
- * @developer Oyewole abayomi Samuel
- * @email oyewoleabayomi@gmail.com
- * @website http://www.oyewoleabayomi.com
- */
+ * @developer Mohammed Ahasan Nafis Rizvi
+ * @email hasanrizvi44@gmail.com
+  */
 import { ShipmentUpdate, ShipmentSearchIndex } from "./challenge";
 
 interface ShipmentDataInterface {
